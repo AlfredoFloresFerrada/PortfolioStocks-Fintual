@@ -1,0 +1,6 @@
+C:\Fintual\PortfolioStock\PortfolioStock\bin\Debug\PortfolioStock.exe.config
+C:\Fintual\PortfolioStock\PortfolioStock\bin\Debug\PortfolioStock.exe
+C:\Fintual\PortfolioStock\PortfolioStock\bin\Debug\PortfolioStock.pdb
+C:\Fintual\PortfolioStock\PortfolioStock\obj\Debug\PortfolioStock.csprojResolveAssemblyReference.cache
+C:\Fintual\PortfolioStock\PortfolioStock\obj\Debug\PortfolioStock.exe
+C:\Fintual\PortfolioStock\PortfolioStock\obj\Debug\PortfolioStock.pdb
